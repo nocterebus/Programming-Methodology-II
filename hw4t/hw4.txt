@@ -1,0 +1,4 @@
+Q1. Implement the Quicksort algorithm. Please ensure it is complete --- namely, it has both the select pivot and sorting phases. 
+Q2. Implement a suitable counter of the number of operations for your implementation of Quicksort.  Plot/Analyze the time taken for different input sizes (use dataset from HW3).
+Q3. Plot/Analyze the time taken for your  implementation of Quicksort on the output of Q2. 
+Q4. Implement MergeSort using the two different  approaches: (a) with additional array/memory, (b) in place. Compare and contrast the timings using the dataset from Q2.
